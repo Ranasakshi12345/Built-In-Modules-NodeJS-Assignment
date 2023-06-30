@@ -24,6 +24,13 @@
 // const data = fs.readFileSync("nodejs_architecture.txt");
 // console.log('Data:', data.toString());
 
+// Qus:5
+
+// fs.unlink("./nodejs_architecture.txt", () =>
+// console.log("File Deleted SuccessFully")
+// );
+
+
 // Qus:6
 
 // const os = require("os");
